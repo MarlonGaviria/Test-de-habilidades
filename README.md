@@ -8,4 +8,4 @@ Esta es una propuesta para autoevaluar tus habilidades a un problema, La intenci
 - tidy data bases
 
 **Si decides aceptar el reto:**
-por favor, descarga las bases de datos "pacientes" y "doctor", junto con el archivo de testo "EXPLICACION", sientete libre de probar y jugar cuanto gustes, y no lo olvides, DISFRUTA & DIVIERTETE. :)
+por favor, descarga las bases de datos "pacientes" y "doctor", junto con el archivo de texto "EXPLICACION", sientete libre de probar y jugar cuanto gustes, y no lo olvides, DISFRUTA & DIVIERTETE. :)
